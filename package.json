@@ -1,0 +1,10 @@
+{
+  "name": "color-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "googleapis": "^72.0.0",
+    "puppeteer-core": "^9.0.0"
+  }
+}
